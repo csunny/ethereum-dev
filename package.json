@@ -1,0 +1,10 @@
+{
+  "name": "ethereum-dev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:csunny/ethereum-dev.git",
+  "license": "MIT",
+  "dependencies": {
+    "web3": "^1.0.0-beta.30"
+  }
+}
